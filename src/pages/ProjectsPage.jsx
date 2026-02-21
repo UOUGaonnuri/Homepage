@@ -1,5 +1,5 @@
 export default function ProjectsPage() {
   return (
-    <div>ProjectsPage</div>
+    <div className="h-[1080px]">ProjectsPage</div>
   )
 }

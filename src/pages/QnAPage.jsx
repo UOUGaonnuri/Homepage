@@ -1,5 +1,5 @@
 export default function QnAPage() {
   return (
-    <div>QnAPage</div>
+    <div className="h-[1080px]">QnAPage</div>
   )
 }

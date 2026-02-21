@@ -1,5 +1,5 @@
 export default function ActivitiesPage() {
   return (
-    <div>ActivitiesPage</div>
+    <div className="h-[1080px]">ActivitiesPage</div>
   )
 }

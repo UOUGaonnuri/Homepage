@@ -1,5 +1,5 @@
 export default function RecruitmentPage() {
   return (
-    <div>RecruitmentPage</div>
+    <div className="h-[1080px]">RecruitmentPage</div>
   )
 }
