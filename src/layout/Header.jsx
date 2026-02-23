@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import logo from "../assets/images/img_logo.png"
+import logo from "../assets/icons/ic_logo.png"
 
 export default function Header() {
   // 현재 화면에 보여지는 활성화된 영역을 저장함
